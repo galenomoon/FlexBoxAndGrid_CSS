@@ -1,0 +1,21 @@
+
+
+main{
+    /* border-width: 10px; */
+    border-color: rgb(0, 255, 251);
+}
+
+header{
+    /* border-width: 1px; */
+    border-color: rgb(209, 0, 181);
+}
+
+footer{
+    /* border-width: 1px; */
+    border-color: blue;
+}
+
+nav{
+    /* border-width: 1px; */
+    border-color: rgb(30, 255, 0);
+}
